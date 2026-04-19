@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d5cc91e5-dc75-4a8f-bd26-a62d371e91bd",
+  "export_job_id": "a15c8755-0e3b-43f6-b039-6418ac02bce6",
   "id_short": 354121,
-  "published_at": "2026-04-12T07:13:54Z",
+  "published_at": "2026-04-19T19:51:37Z",
   "repo_name": "restaurant-verified-email-access-in-florida-us-sample-354121",
   "sample_asset_name": "beamstation_354121_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/354121/beamstation_354121_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "e893e5fdc777c89253ed6505f12f510ff0cd14a5951ce001f8d5f2810179dbbb",
-  "sample_size_bytes": 3912170,
-  "total_records": 11203
+  "sample_sha256": "e85fb6ded4e0bcf4855a226b1130d644ffd9fc1284c710f6d5b6abcd4a3a7c3e",
+  "sample_size_bytes": 3925582,
+  "total_records": 10885
 }
