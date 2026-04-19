@@ -9,9 +9,9 @@
 | Dataset ID | `354121` |
 | Location | Florida |
 | Category | Restaurants |
-| Full dataset size | 11,203 records |
-| Free sample size | 1,000 records (8.93%) |
-| Last export | 2026-04-09T20:02:08.774647+00:00 |
+| Full dataset size | 10,885 records |
+| Free sample size | 1,000 records (9.19%) |
+| Last export | 2026-04-17T00:10:27.581231+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-florida-us-sample-354121/releases/download/sample-latest/beamstation_354121_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
