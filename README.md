@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Florida, US
 
-> Free BeamStation sample export with 1,000 rows and masked direct-contact fields.
+> Free BeamStation sample export with 624 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `354121` |
 | Location | Florida |
 | Category | Restaurants |
-| Full dataset size | 10,885 records |
-| Free sample size | 1,000 records (9.19%) |
-| Last export | 2026-04-17T00:10:27.581231+00:00 |
+| Full dataset size | 6,245 records |
+| Free sample size | 624 records (9.99%) |
+| Last export | 2026-04-23T18:12:04.399891+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-florida-us-sample-354121/releases/download/sample-latest/beamstation_354121_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
